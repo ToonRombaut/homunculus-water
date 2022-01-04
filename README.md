@@ -1,11 +1,11 @@
-# vite-vue2-starter
+# Homunculus water
 
-A simple start for using vue2 with vite, using [underfin's vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2).
+This projects is about recreating a waterdrop-ish effect when you move with the mouse.
+![preview image](https://i.imgur.com/Svm6aC9.png)
 
 ## Scripts
 
 ```bash
-  npm run dev # start dev server
-  npm run build # build for production
-  npm run serve # locally preview production build
+  yarn # install dependencies
+  yarn dev # local preview
 ```
